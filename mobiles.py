@@ -1,3 +1,3 @@
 hello,welcome to all 
 
-going to learn maven from today
+from the day one we are learning
